@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony of the appearance of God in the spirit of power and the true light, making manifest the deceipts of the Serpent with some reasons why Margaret Hambleton doth deny the Presbyterians of Scotland, they being found in the steps of the false prophets.</title>
+            <author>Parker, Alexander, 1628-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56094</idno>
+            <idno type="STC">Wing P384</idno>
+            <idno type="STC">ESTC R31752</idno>
+            <idno type="EEBO-CITATION">12252466</idno>
+            <idno type="OCLC">ocm 12252466</idno>
+            <idno type="VID">57168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1510:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony of the appearance of God in the spirit of power and the true light, making manifest the deceipts of the Serpent with some reasons why Margaret Hambleton doth deny the Presbyterians of Scotland, they being found in the steps of the false prophets.</title>
+                  <author>Parker, Alexander, 1628-1689.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: A.P.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inner Light.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57168:1"/>
+            <pb n="1" facs="tcp:57168:1" rendition="simple:additions"/>
+            <head>A Teſtimony of the appearance of God, in the ſpirit of Power, and the true Light, making manifeſt the deceipts of the Serpent: with ſome Reaſons why <hi>Margaret Hambleton</hi> doth deny the Presbyterians of <hi>Scotland,</hi> they being found in the ſteps of the Falſe Prophets.</head>
+            <p>THe living God, who is the ſearcher of all hearts,
+<note place="margin">Jer. 17.10.</note> who dwels in Light, who is pure for ever, and loves truth and equity, and cannot behold, but hates iniquity;
+<note place="margin">Dent. 32.6. Pſal. 11.7. Rom. 14.17. Malicah 3.6. Heb. 1.1, 2.</note> whoſe Kingdom ſtands in Righteouſneſſe, who is the ſame to day, and doth not alter, nor change: He the ſame li<g ref="char:EOLhyphen"/>ving and true God, who at ſundry times, &amp; in divers man<g ref="char:EOLhyphen"/>ners in times paſt, ſpeak to the Fathers by his ſervants the Prophets; and afterwards did ſpeak by his Son, is now ap<g ref="char:EOLhyphen"/>pearing, according to his Promiſe,
+<note place="margin">Joel 2.28, 29.</note> in the power of his Spi<g ref="char:EOLhyphen"/>rit, manifeſting his power in deſtroying ſin, and wickedneſs;
+<note place="margin">1 John 3.8. Tir. 2.14.</note> and gathering unto himſelf a Holy, and a peculiar people, in whom, and by whom he will be glorified:
+<note place="margin">Lay 54.13. Ezek. 34.10, &amp;c.</note> and he will teach his people himſelf freely by his Spirit, and they ſhall no more be made a prey upon by the falſe Shepherds; nor ſpend their money for that which is not bread;
+<note place="margin">Iſay. 55.1, 2.</note> neither their labour for that which doth not ſatisfie: But freely ſhall they drink at the living Fountain, where true refreſhment and ſatisfaction is, to the hungry thirſting ſouls. The ſame truth,
+<note place="margin">1 John 1.1.</note> the ſame power and word of Life as ever was, is manifeſted, and made known in the hearts of the Lords Children and Servants, which hath ſeparated them from ungodlineſs,
+<note place="margin">John 4.23, 24. Tit. 2.11, 12.</note> and worldly luſts, and redeemed them from the bondage and ſervitude of ſin, no more to ſerve and follow wicked luſts,
+<note place="margin">Luke 1.74, 75.</note> and worldly delights, and vain ſports and pleaſures: but in truth and uprightneſs of heart and mind to ſerve the living God in the new life of Righteouſneſs,
+<note place="margin">Heb. 4.12. 1 Cor. 3.16, 17</note> and to worſhip him in ſpirit, and in truth in his holy Temple, not made with
+<pb n="2" facs="tcp:57168:2"/>mens hands:
+<note place="margin">Acts 13.24.</note> And this work and power of God is ſtrange to the world, and wonderful, (as ever the working of God were) and many mouthes are opened wide to ſpeak evil of the way of God, and of his truth, and of his faithful ſer<g ref="char:EOLhyphen"/>vants, who live in the life of truth, and the enemy of mans Soul,
+<note place="margin">John 8.44.</note> the old ſerpent who was a lyar, and a deceiver even from the beginning. He is full of wrath, and is ſtirring up his inſtruments in whom he rules, to make war againſt the lamb, and his followers, that he may uphold his kingdom of ſin and unrighteouſneſſe, and keep people under his dominion and power of darkneſſe, to act ſin, and ſerve him by obey<g ref="char:EOLhyphen"/>ing wickedneſſe, and ungodly luſts, and therefore he uſes all meanes to keep them in his work; and ſpeaks evill of the work of God, and his faith full ſervants, crying out of error, hereſy, and deluſion, and caſting out their names as evill; but this is no new, nor ſtrang thing, to thoſe who are ac<g ref="char:EOLhyphen"/>quainted with the workings of God, and who know the wiles, and ſubtilty of the ſerpent, who in all ages hath op<g ref="char:EOLhyphen"/>poſed the appearance of God,
+<note place="margin">Gal. 4.29.</note> and perſecuted his life and power, manifeſted in his righteous Servants, as the Scrip<g ref="char:EOLhyphen"/>tures make mention.</p>
+            <p>The Prophets of God, in the day of their Propheſy, were hated &amp; perſecuted (by theſe profeſſing people,
+<note place="margin">Mat. 23.29, 30. &amp;c.</note> who had the form of <hi>Moſes</hi> words) and many of them were killed. Chriſt Jeſus the Son of God (whom <hi>Moſes</hi> wrote of, and the Pro<g ref="char:EOLhyphen"/>phets propheſied of) in his dayes were hated and perſecu<g ref="char:EOLhyphen"/>ted,
+<note place="margin">John 10.31, 33. John 7.48, 49. John 19.49.</note> under the name of a blaſphemer; and this by a ſtrict profeſſing people, and chief prieſts and rulers; theſe, and ſuch as made a fair ſhew in words, were found in rage and enmity, and perſecuted and crucified Chriſt the life. Like<g ref="char:EOLhyphen"/>wiſe the Apoſtles,
+<note place="margin">Acts 7.57.</note> and true Miniſters of the Goſpel in the dayes of their Miniſtration they were hated, and perſecuted, under the name of deceivers,
+<note place="margin">Acts 8.3. Acts 24.5.</note> peſtilent fellowes, and movers of Sedition, and ſuch like.</p>
+            <p>And all along, even to this day and age, the true witneſſes of God have ſuffered perſecution,
+<note place="margin">2 Tim. 3.12.</note> yea and all that will live godly in Chriſt Jeſus ſhall ſuffer perſecution; for ſaith Chriſt, if ye were of the world,
+<note place="margin">John 15.19, 20.</note> the world would love his own, but becauſe ye are not of this world, but I have choſen you out
+<pb n="3" facs="tcp:57168:2"/>of the world, therefore the world hateth you. The ſervant is not greater then the Lord: if they have perſecuted me, they will alſo perſecute you,
+<note place="margin">John 16.2.</note> and they ſhall put you out of the Synagogue, ye the time cometh, that whoſoever killeth you will think that he doth God ſervice: And ye ſhall be ha<g ref="char:EOLhyphen"/>ted of all men for my names ſake.
+<note place="margin">Mat. 24.9.</note> Theſe Scriptures are fulfil<g ref="char:EOLhyphen"/>led in theſe dayes, by this ſinful generation of Teachers, and people who have long bin profeſſors of truth in words,
+<note place="margin">Tit. 1.16.</note> but have denyed truth by their wicked lives, and deceitful works, and now are made manifeſt by the true Light, even by their fruits,
+<note place="margin">Mat. 7.20.</note> and wicked rage and envy againſt the inno<g ref="char:EOLhyphen"/>cent, caſting out their names as evill, and incenſing the people againſt the Lords Lambs; as it was of late manifeſt<g ref="char:EOLhyphen"/>ted by two pariſh Maſters in the weſt of <hi>Scotland,</hi> to wit, one called <hi>Lewes Simorell,</hi> and one <hi>Hugh Archbull,</hi> who excom<g ref="char:EOLhyphen"/>umnicated (as they ſay) one whoſe eyes the Lord hath open<g ref="char:EOLhyphen"/>ed to ſee their deceits,
+<note place="margin">Acts 20.13.</note> and hath turned her face towards <hi>Sion</hi> to walk in the light, whoſe name according to the fleſh is <hi>Margaret Hambleton.</hi> Whom the ſaid two pariſh Maſters did ſo incenſe their hearers againſt, (as that generation of murdering Prieſt did formerly againſt the Lord Jeſus and his diſciples) as though ſhe was not fit to live amongſt them, but nothing of fact or evil done, was proved againſt her. But their reaſons are, as I underſtand. 1. Becauſe ſhe denyed the power of the Presbytery. Secondly, Becauſe ſhe denyed their Ordinances. And Thirdly, Becauſe ſhe would not forſake the company of Seducers and Hereticks as they call them. Now to all ye people within the Pariſh of <hi>Monkland,</hi> theſe things I write unto you, to give you an underſtanding of what we own, and what we deny, that you may not be led away with blind guides, and envious men,
+<note place="margin">Jude 10.</note> to ſpeak evill of thoſe things you know not, and ſo bring your ſelves under the curſe, with thoſe who perſecute the Lords innocent Servants. Your Teachers do cry much againſt falſe pro<g ref="char:EOLhyphen"/>phets and ſeducers, but do they ever ſhew you the marks of the falſe Teachers. Some Scriptures I ſhall ſet before you, whereby you may try your Teachers, and compare them with their fruits, and ſee whether or no if they be not found in the ſteps of thoſe, whom the true Prophets, Chriſt and his
+<pb n="4" facs="tcp:57168:3"/>true Miniſters declared againſt <hi>Iſaiah</hi> was a true Prophet of the Lord, and he by the Spirit of the Lord, cried againſt the blind watchmen in his dayes, calling them greedy dumb dogs,
+<note place="margin">Iſay 56.10, 11.</note> which could never have enough, every one looking to his own way, ſeeking for the gain from his quarter: and he makes a Proclamation,
+<note place="margin">Iſay 55.1, 2.</note> ſaying, Ho, every one that thirſteth come ye to the waters, yea, come ye and eat, buy wine and milk without money, and without price. Now come to the touchſtone, and try your Teachers, compare them, and ſee whether or no they be found in the ſteps of <hi>Iſaiah,</hi> who ſpoke freely, without a price; or whether or no they be not found in the ſteps and wayes of thoſe whom <hi>Iſaiah</hi> cryes a<g ref="char:EOLhyphen"/>gainſt, who ſought gain from their Quarter; are not your Teachers greedy of gain? do they not ſtrive for great bene<g ref="char:EOLhyphen"/>fits, &amp; great ſums of mony by the year? will they not leave their own pariſhoners for a greater Benefice? and will any of them preach without a price? is it not plain, no hire no Prieſt? be not deceived with a vain hope, for ſuch as you ſowe, ſuch muſt you reap.</p>
+            <p>
+               <hi>Jeremiah</hi> was a true Prophet of God, and he cryed againſt that horrible filthy thing committed in the Land:
+<note place="margin">Jer. 5.30, 31.</note> The Pro<g ref="char:EOLhyphen"/>phets propheſy falſly, and the Prieſts bear rule by their means, &amp; the people love to have it ſo: try if it be not ſo now, do not your Teachers bear rule over you poor people? and he that hath moſt means is higheſt exalted by the blind world.
+<note place="margin">Mica 3.5, 11.</note> Again, <hi>Micah</hi> the Lords prophet cryed againſt the hireling Prieſts in his dayes, and the prophets that made the people to erre, that bite with their teeth, and cry peace, and he that putteth not into their mouths, they even prepare warr againſt him: See if it be not ſo with your Teachers, whileſt <hi>Margaret Hambleton</hi> and others put into their months, and gave them money, then they ſpoke peace to her,
+<note place="margin">Iſay 48.22.</note> though ſhe was in a condition of ſin, where no peace is. And now the Lord having opened her eyes, to ſee their de<g ref="char:EOLhyphen"/>ceits, who for conſcience ſake cannot uphold them, nor put into their mouths: and ſo now they manifeſt themſelves by their envy againſt her, caſting out her name as evill: read the marks of the falſe prophets, and then read your Teach<g ref="char:EOLhyphen"/>ers, and do not willfully cloſe your eyes againſt plain and
+<pb n="5" facs="tcp:57168:3"/>pure truth. <hi>Ezekiel</hi> likewiſe one of the Lords Prophets, decla<g ref="char:EOLhyphen"/>res againſt the falſe ſhepherds in his dayes, that fed upon the fat, and clothed themſelves with the wool, but feed not the flock, but ſcattered the ſheep of the Lords paſture:
+<note place="margin">Ezek 34. read all the Chap<g ref="char:EOLhyphen"/>ter.</note> See if your Teachers be not found in the ſteps of thoſe falſe ſhepherds: do they not live at eaſe, and feed upon poor mens labours, taking care for themſelves, but ſcatter the ſheep of the Lords paſture, and begets the people into another Image? for if a lamb come amongſt them they are ready to devoure, and teare the innocent ones; uphold not ſuch, for if ye uphold them,
+<note place="margin">Rev. 18.4. Hoſea 6.9.</note> and partake of their ſins, you muſt partake of their plagues. And as troops of robbers wait for a man, ſo the company of Prieſts murder in the way by conſent, <hi>Hoſ.</hi> 6.9. Try your teachers, and ſee if they be not guilty of envy, and ſo of murder;
+<note place="margin">1 John 3.15.</note> for he that hates his brother is a murderer, and no murderer hath eternall life abiding in him.</p>
+            <p>Theſe and many other examples I might bring out of the Prophets writings, who gave their teſtimony againſt the hirelings, and falſe prophets, and Prieſts, in the time of the Law.
+<note place="margin">Mat. 23.27, 28.</note> So likewiſe Jeſus Chriſt declares againſt thoſe de<g ref="char:EOLhyphen"/>ceitful hypocrites, who had gotten <hi>Moſes</hi> and the Prophets words, but were out of the life; and he ſhewes their marks. They were exalted, and went in long robes, having the cheifeſt ſeats in the Aſſemblies, and the uppermoſt rooms at Feaſts, and loved greetings in the markets, and to be called of men, Maſter,
+<note place="margin">Mat. 23.</note> to whom Chriſt pronounces many woes, and ſaid unto his followers, <hi>Be not ye called of men Maſter, for ye have but one Maſter, even Chriſt, and ye are Bre<g ref="char:EOLhyphen"/>thren.</hi> Now try your Teachers, and with the light that Chriſt hath enlightened you withall; behold, if theſe marks be not written upon them: are not they exalted above others, and ſtand praying in their ſtone houſes, (as the proud Phariſees did in their Synagogues) and love gree<g ref="char:EOLhyphen"/>tings in markets, and have the uppermoſt rooms at Feaſts, and are called of men, Maſter?
+<note place="margin">Heb. 13.8.</note> Is not Chriſt the ſame to<g ref="char:EOLunhyphen"/>day? and do you believe that he juſtifies thoſe things now, which he cryed wo againſt then? He ſaith expreſly to
+<pb n="6" facs="tcp:57168:4"/>his diſciples,
+<note place="margin">Mat. 23.8, 10.</note> 
+               <hi>Be not ye called of men Maſter:</hi> But your Teachers are called of men Maſter, contrary to the com<g ref="char:EOLhyphen"/>mand of Chriſt, ſo no Miniſters of Chriſt. A Maſter, and a Miniſter are different one to the other; the one a ruler over,
+<note place="margin">2 John 9.</note> the other a ſervant under, but the followers of Chriſt were not called of men maſters. Wee do not read of Ma<g ref="char:EOLhyphen"/>ſter <hi>Peter,</hi>
+               <note place="margin">Phil. 1.1. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 1.1.</note> and Maſter <hi>Paul,</hi> nor any other of Chriſts Mini<g ref="char:EOLhyphen"/>ſters, that were called by thoſe Tytles, but ſervants for Jeſus ſake: And yet your Pariſh Maſters have got the name of Miniſters, but are not in the nature, and ſo to be deny<g ref="char:EOLhyphen"/>ed, and turned away from: likewiſe <hi>Peter</hi> and <hi>Jude</hi> cryed againſt ſuch as preached for filthy lucre,
+<note place="margin">2 Pet. 2. Jude 1.</note> and loved gifts and rewards; ſaying, wo unto them, they have gone in the way of <hi>Cain,</hi> and runn greedily after the error of <hi>Balaam,</hi> for gifts and rewards.
+<note place="margin">Jude 11 verſe. Acts 20.29. 1 Tim. 6.8, 9, 10, 11.</note> And <hi>Paul</hi> ſpeaks of ſuch devouring wolves that ſhould not ſpare the flock, and writes to <hi>Timothy</hi> to beware, and fly ſuch things as filthy lucre, and the love of mony, for it is the root of all evill. So conſider of theſe things, and try your Teachers by theſe Scriptures, and ſee if they be not in a high meaſure guilty of theſe things: do not they love money, which is the root of all evill? and from this wicked root agreat deale of curſed branches do ſpring, and ariſe, as envy, and wrath, pride, and vain glory, and ſo as Chriſt hath ſaid,
+<note place="margin">Mat. 7.20.</note> 
+               <hi>By their fruits ye ſhall know them:</hi> though they be decked with the ſheeps clothing, the good words of the holy men of God, yet by their fruits they are known, for no mait can gather grapes of thornes, nor figgs of thiſtles: whereſoever envy is, it is a mark of <hi>Cain;</hi> and where wrath and malice is, they are the wolves markes: though they may have ſmooth words, yet by their wicked works they are known;
+<note place="margin">2 Tim. 3.1, 2, 3, 4, 5, 6, 7, 8, &amp;c.</note> likewiſe <hi>Paul</hi> in his Epiſtle to <hi>Timothy</hi> marks out the deceivers ſo plain, that even he that runs may read, They ſhall be lovers of themſelves, covetous, proud boaſters, incontinent, fierce deſpiſers of thoſe that are good, lovers of pleaſures, more then lovers of God; having a form of godlyneſſe, but denying the power, from ſuch turn a way. And we in the light of the Lord ſeeing theſe things amongſt your Presbytery, (and called Mini<g ref="char:EOLhyphen"/>ſters)
+<pb n="7" facs="tcp:57168:4"/>we owning the true Prophets, Chriſt and the Apoſtles teſtimony; do deny,
+<note n="*" place="margin">Their caſt<g ref="char:EOLhyphen"/>ing out of <hi>Margaret Ham<g ref="char:EOLhyphen"/>bleton</hi> is need<g ref="char:EOLhyphen"/>leſſe; For she hath (in the Power of God) denyed them, and turned away from them, according to the doctrine of the Apoſtle.</note> and turn from ſuch, as they the true Meſſengers of God, denyed and teſtified againſt.</p>
+            <p>And as for the Ordinances, We declare, that all the Ordinances of Jeſus Chriſt, which are durable, pure, ſpiritual, and ſubſtantial, which tends to purity, and edification of the body, we own,
+<note place="margin">Epheſ. 4.4, 5, 6. Acts 2.4. Rom. 4.15.</note> and pra<g ref="char:EOLhyphen"/>ctiſe: as preaching, and praying, as the Holy Spirit doth move and give utterance: and ſinging with the Spirit, &amp; with underſtanding, ac<g ref="char:EOLhyphen"/>cording to Scripture, we own: But thoſe fading elementary shadows, which Chriſt hath put an end to, we do not practiſe, <hi>Col.</hi> 2.14, 20, 21, 22. But as for thoſe things which your Teachers calls Ordinances, (for which they have no example in the Scriptures) we do deny: as their great ſtone houſes, which are built with mens hands, which you ignorantly do call Churches; for God that made the world,
+<note place="margin">Acts 17.24, 25. 1 Theſ. 1.1 John 4.21, 22, 23.</note> and all things therein, dwelleth not in Temples made with hands. Chriſt Jeſus put an end of Temple worship outwardly, and now is worshipped in Spirit, &amp; the bodies of his Saints are his Temple, as the Scripture declares, 2 <hi>Cor.</hi> 3.16.17. So likewiſe the things &amp; practiſes in thoſe Idoll Temples we deny, as their pulpit, their ſtanding praying (phareſy like) before and after their called Sermons; their ſinging of <hi>Davids</hi> experiences in meeter; As O Lord I am not puft in mind, I have no ſcornful eye, <hi>&amp;c.</hi> When people are ſo high and ſcornful, they can ſcarce look one upon another, and ſo cauſes the people to ſing lyes, and call God to witneſſe; ſuch ſinging without underſtan<g ref="char:EOLhyphen"/>ding we do deny; likewiſe their ſprinkling of inſants, for which theſe have no example in the Scriptures, we do deny; Their taking a part of Scripture and adding to it their humane inventions,
+<note place="margin">2 Pet. 1.20, 21.</note> calling it the word of the Lord, which is but a divinaton of their own brain; likewiſe their hourglaſs, as the Papiſt uſe to ſay maſſe by, and limiting themſelves to a time, which none of the Holy men of God ever did, and therefore theſe their called Ordinances, we do in the power of God deny: as likewiſe their carnall and man-made-miniſtry,
+<note place="margin">Gal. 1.1.1, 12. Mat. 10.8.</note> their preaching for hire and filthy lucre: their Tythes, yearly ſet ſtipends, and forced maintenance, Augmentations, gleab lands; and all ſuch Popish ſtuffe, and Jewish rites we do deny; and againſt ſuch things do teſtify; and all proud, covetous, and envious men, we deny, and turne away from ſuch, being out of Gods Councill, and ſo do not, nor cannot prophet the people at all, but leads them captive in an empty and dead form, laden with ſin, and led away with divers luſts, ever learning,
+<note place="margin">2 Tim. 3.</note> but never able to come to the true knowledge of God, as the fruits of the Miniſtry of <hi>Scotland</hi> ſadly make manifeſt; who are all excommunicated from it (the life) from the true Church, and true Miniſtry.</p>
+            <pb n="8" facs="tcp:57168:5"/>
+            <p>And whereas your Parish Maſters,
+<note place="margin">John 16.2.</note> out of their envy and malice have caſt out <hi>Marg. Hamb.</hi> yet not being found guilty of any evil done but for Truth and its Teſtimony she shall not be left deſolate,
+<note place="margin">1 Pet. 4.13, 14, 15. Ezek. 34. Mar. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.5. Heb. 6.8.</note> but Jeſus the true Shepherd will take care for her, and feed her upon the tops of the mountaines; and it were well for you and your Teachers to begin at home and pull the beame out of your own eyes, let them pluck up the briars and thornes, and thoſe g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>os weeds, that are ſprung ſo high above the pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſeed; and as for the tares (that are ſo like the wheat) let both grow together until <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> harveſt;
+<note place="margin">Mar. 13.25, 31.</note> let them caſt out all love<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of money, all covetous <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and all proud, and lofty ones, and all drunkards, and ſweare<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, whoremongers, and adulterers, and all ſco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and ſco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and light vain wanton ones,
+<note place="margin">Rom. 1.28, 29, 30, 31, 32.</note> and liars, and all cozeners, and cheaters, and ſtoners, and ſtrikers, and perſecutors, and all envious wra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and malicious ones, and ſuch like workers of iniquity, and then judge ye, how many they will leave behind, to make up the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church, and aſſure your ſelves, all ſuch as above mentioned, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> live in the luſts of the flesh, muſt be caſt out from the pure God and his Holy City, for the unrighteous cannot enter into the king<g ref="char:EOLunhyphen"/>dom of God, as you may read, 1 <hi>Cor.</hi> 6.9, 10. <hi>Gal.</hi> 5.10, 20, 21. <hi>Rev.</hi> 21.8. Thus much for the denyall of your Presbytery, and their powe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who be found in thoſe wayes and practices above mentioned, and their imitated and invented Ordinances: and as for their th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> charge that she will not forſake the company of Seducers and Hereticks,
+<note place="margin">Acts 28.22.</note> I ſay your calling them Seducers and Hereticks, doth not make, nor prove them ſo, no more then (their Brethren in envy and perſecution) the cheif Prieſts formerly their calling Chriſt a blaſphemer, and the Apoſtles deceivers, did make or prove them ſo to be: But this hath bin the ſubtilty of the ſerpent, and of the falſe prophets, and deceivers (in whom he rules) the better to cloak and and cover their deceit,
+<note place="margin">Eph. 6.16.</note> they cry out againſt deceivers; but their lyes &amp; ſlanders doth not touch the innocent, for thoſe whom your teach<g ref="char:EOLhyphen"/>ers do call Seducers, we the ſervants of the moſt high God and in that way you which call Hereſy,
+<note place="margin">Acts 24.14.</note> ſo worship we the God of our Fathers, owning and believing all things declared by the holy Prophets, Chriſt and his Apoſtles,
+<note place="margin">1 John 2.26.</note> waiting for the redemption of the promiſed Seed; Thoſe be the deceivers and ſeducers, which drawes people from the anointing and light within,
+<note place="margin">1 Joh 2.20, 27. Rom. 8.</note> for the pure, the Sons of God who are led and guided by the ſpirit of God: and to this muſt all come to be led by, if ever you be led in the way of God; for nothing can guide and lead in Gods way,
+<note place="margin">1 Cor. 2.11. 1 Cor. 10.7</note> but that which comes from God, and the manifeſtation of the ſpirit is given to every man to profit withall. Therefore all people ceaſe from the hirelings, who preach for the price,
+<note place="margin">Iſa. 2.20. Iſa. 54.15. Mat. 11.28, 29.</note> and turn to the Lord, who teacheth his people freely: mind his call, who ſaith, Come unto me, take my yoke upon you, and learn of me, I am meek and lowly in ſpirit, and you shall find reſt to your Souls.</p>
+            <closer>
+               <signed>A. P.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:57168:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
